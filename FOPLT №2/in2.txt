@@ -1,0 +1,1 @@
+for c=10+b to 7-3 c=c+1 next

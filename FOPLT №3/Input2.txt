@@ -1,0 +1,3 @@
+for x=y+12 to x-x-y y=11-a next 
+for x+10 to abc1/10*100 x=x+1-1*1/1 
+for x=10 to abc1/10*1î00 x=x+1-1*1/1

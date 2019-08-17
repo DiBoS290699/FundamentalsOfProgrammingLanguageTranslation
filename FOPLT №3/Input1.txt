@@ -1,0 +1,2 @@
+for ident = next to 10 next 1
+z = ident + 1 s
